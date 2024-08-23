@@ -1,0 +1,14 @@
+---Inter Cooker---
+
+Sitio web de recetas internacionales
+
+Platos:
+-Yorkshire Puddings (UK)
+-Arepas (VEN)
+-Sushi (JPN)
+-Tapas (ESP)
+-Dumplings (CHN)
+-Shawarma (TR)
+-Tarta Pavlova (AUS)
+-Pizza (ITA)
+-Galletas danesas (DIN)
